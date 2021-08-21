@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTopperTom
 - 👀 I’m interested in progarming and hacking
-- 🌱 I’m currently learning c#, c++, javascript and hacking
+- 🌱 I’m currently learning c#, c.
 - 💞️ I’m looking to collaborate on a minecraft c# injector
 - 📫 How to reach me mrtomharrison100@gmail.com
 
